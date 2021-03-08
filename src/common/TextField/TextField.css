@@ -1,0 +1,12 @@
+.label {
+  font-size: 0.7rem;
+}
+input.form-control,
+input.form-control:focus {
+  background-color: antiquewhite;
+}
+.error-textfield {
+  position: absolute;
+  color: crimson;
+  font-size: 0.7rem;
+}
