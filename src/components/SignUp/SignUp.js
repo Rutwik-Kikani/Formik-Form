@@ -10,11 +10,11 @@ const SignUp = () => {
           <SignUpForm />
         </div>
 
-        <div className="col-sm-7 my-auto">
+        <div className="col-sm-7 my-5">
           <img
-            className="img-fluid w-100"
+            className="img-fl uid w-100"
             src={sideImage}
-            alt="clipArt for signup"
+            alt="clipArt for sign up"
           />
         </div>
       </div>
